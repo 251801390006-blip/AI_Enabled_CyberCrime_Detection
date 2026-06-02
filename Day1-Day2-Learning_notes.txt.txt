@@ -1,0 +1,258 @@
+ AI Enabled Algorithms for Cyber Crime Detection
+
+ About Me
+
+* B.Tech First Year Cyber Security Student
+* Learning Networking, Python, Cyber Security, and Machine Learning
+* Internship Focus: AI Enabled Algorithms for Cyber Crime Detection
+
+---
+
+ Learning Journey
+
+This repository documents my learning progress, practical exercises, notes, and mini-projects completed during my Cyber Security internship preparation.
+
+---
+
+ Day 1 - Networking Fundamentals
+
+ Topics Covered
+
+ Network Basics
+
+* What is a Network
+* LAN, MAN, WAN
+* Internet Fundamentals
+* Router and Switch
+
+ Addressing
+
+* IP Address
+* Public IP vs Private IP
+* MAC Address
+
+ Core Services
+
+* DNS (Domain Name System)
+* HTTP
+* HTTPS
+
+ Network Communication
+
+* Ports
+* Packets
+* Client and Server Model
+* Data Flow Across Networks
+
+---
+
+# Day 2 - Networking and Security Foundations
+
+ OSI Model
+
+| Layer | Name         |
+| ----- | ------------ |
+| 7     | Application  |
+| 6     | Presentation |
+| 5     | Session      |
+| 4     | Transport    |
+| 3     | Network      |
+| 2     | Data Link    |
+| 1     | Physical     |
+
+ Memory Trick
+
+All People Seem To Need Data Processing
+
+---
+
+ TCP/IP Model
+
+* Application Layer
+* Transport Layer
+* Internet Layer
+* Network Access Layer
+
+---
+
+ TCP vs UDP
+
+ TCP
+
+* Reliable
+* Connection-Oriented
+* Uses Acknowledgements
+
+ UDP
+
+* Fast
+* Connectionless
+* Low Overhead
+
+---
+
+ TCP Three-Way Handshake
+
+1. SYN
+2. SYN-ACK
+3. ACK
+
+Purpose:
+Establishes a reliable communication channel.
+
+---
+
+ Common Protocols and Ports
+
+| Protocol | Port |
+| -------- | ---- |
+| FTP      | 21   |
+| SSH      | 22   |
+| SMTP     | 25   |
+| DNS      | 53   |
+| HTTP     | 80   |
+| HTTPS    | 443  |
+
+---
+
+ Wireshark Basics
+
+ Packet Types Analyzed
+
+* DNS
+* TCP
+* ICMP
+* HTTP
+* HTTPS
+
+ Common Filters
+
+dns
+
+tcp
+
+icmp
+
+http
+
+tls
+
+---
+
+ Network Commands
+
+ Windows
+
+ipconfig
+
+ping google.com
+
+tracert google.com
+
+nslookup google.com
+
+netstat -an
+
+---
+
+* Cyber Security Concepts
+
+* CIA Triad
+
+* Confidentiality
+
+Protect information from unauthorized access.
+
+* Integrity
+
+Ensure information remains unchanged.
+
+* Availability
+
+Ensure systems remain accessible.
+
+---
+
+# Common Network Attacks
+
+* Phishing
+* DNS Spoofing
+* Man-in-the-Middle Attack
+* Packet Sniffing
+* Session Hijacking
+* DDoS Attack
+
+---
+
+ Python for Cyber Security
+
+ Libraries Learned
+
+ socket
+
+Network communication and IP resolution.
+
+ requests
+
+HTTP communication and API interaction.
+
+ hashlib
+
+Password hashing and integrity checking.
+
+ re
+
+Pattern matching and validation.
+
+---
+
+ Mini Scripts Developed
+
+* Hostname Finder
+* IP Address Finder
+* Website Status Checker
+* Password Hash Generator
+* Email Validator
+
+---
+
+# Skills Acquired
+
+ Networking
+
+* Network Fundamentals
+* Protocols
+* Ports
+* DNS
+* Packet Flow
+
+# Cyber Security
+
+* Traffic Analysis
+* Wireshark Basics
+* Security Concepts
+* Network Monitoring
+
+# Python
+
+* Security Automation
+* Networking Scripts
+* Hashing
+* Regular Expressions
+
+---
+
+# Next Learning Goals
+
+* Linux Fundamentals
+* Network Traffic Analysis
+* Machine Learning Basics
+* Data Analysis with Pandas
+* Cyber Security Datasets
+* AI-Based Threat Detection
+
+---
+
+# Career Goal
+
+Build practical skills in Networking, Cyber Security, Python Automation, and Machine Learning to develop AI-enabled solutions for cyber crime detection.
